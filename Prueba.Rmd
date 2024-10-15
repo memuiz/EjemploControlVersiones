@@ -22,3 +22,19 @@ l <- 2
 Area <- l^2
 ```
 
+# Area del triangulo
+```{r}
+lado <- 5
+altura <- 3
+areatriangulo <- lado*altura/2
+```
+
+
+# Area del rectangulo
+
+```{r}
+L <- 2
+l <- 1
+arearectangulo <- L*l
+```
+
