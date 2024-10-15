@@ -9,5 +9,7 @@ Longitud_circung <- function(r){
 }
 
 Perimetrorectangulo <- function(L,l){
-  return(2*L+2*l)
+  return(2*(L+l))
 }
+
+
