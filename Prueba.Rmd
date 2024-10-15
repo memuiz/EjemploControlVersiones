@@ -38,3 +38,12 @@ l <- 1
 arearectangulo <- L*l
 ```
 
+# Area del trapecio
+
+```{r}
+b <- 2
+B <-3
+H <- 2
+areatrapecio <- (B+b)*H/2
+```
+
