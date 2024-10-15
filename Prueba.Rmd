@@ -16,7 +16,7 @@ Area <- pi*r^2
 ```
 
 # Area del cuadrado
-
+Vamos a calcular el area del cuadrado
 ```{r}
 l <- 2
 Area <- l^2
